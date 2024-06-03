@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio creado durante el prepcourse
+Este repositorio de una prueba
